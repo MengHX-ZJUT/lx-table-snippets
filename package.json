@@ -4,7 +4,7 @@
   "publisher": "hxmeng",
   "icon": "images/jiaotailang.jpg",
   "description": "React-TypeScript Snippets",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.69.0"
   },

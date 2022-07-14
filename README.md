@@ -4,11 +4,12 @@
 
 As shown in the table below.
 
-| Prefix       | Snippet Content                     |
-| ------------ | ----------------------------------- |
-| `lxtable`    | `pro-table` page                    |
-| `lxtableadd` | `pro-table` page with an add button |
-| `lxdetail`   | detail page                         |
+| Prefix       | Snippet Content                            |
+| ------------ | ------------------------------------------ |
+| `lxtable`    | `pro-table` page                           |
+| `lxtableadd` | `pro-table` page with an add/update button |
+| `lxaddmodal` | `modal` of the add/update button           |
+| `lxdetail`   | detail page                                |
 
 ### Supported languages
 
